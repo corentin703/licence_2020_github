@@ -52,7 +52,12 @@ const movies = [
     title: "Interstellar",
     synopsis: "Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille récemment découverte dans l’espace-temps afin de repousser les limites humaines et partir à la conquête des distances astronomiques dans un voyage interstellaire.",
     ratings: 5,
-  }
+  },
+  {
+    title: "Kaamelott, Premier Volet",
+    synopsis: "Dix ans après que Lancelot a pris le pouvoir. Il organise une chasse aux sorcières - aidés par des mercenaires saxons - pour retrouver Arthur et ses chevaliers, aujourd'hui, divisés et dispersés.",
+    ratings: 5,
+  },
 ]
 
 const Movies = () => {
